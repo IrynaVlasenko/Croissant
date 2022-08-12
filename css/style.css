@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(243, 211, 243);
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+
+}
+
+li {
+    padding: 0 20px;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: auto;
+    border: 2px solid orange;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px orangered;
+}
+a{
+    color: rgb(190, 3, 190);
+}
